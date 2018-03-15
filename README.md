@@ -32,6 +32,7 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [European Union Open Data Portal](https://data.europa.eu/euodp/en/data/)
     - [European Data Portal](https://www.europeandataportal.eu)
     - [Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
+    - [National Buerau of Statistics of China](http://data.stats.gov.cn/english/)
 
   5. Data websites
     - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
