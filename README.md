@@ -3,7 +3,7 @@ There is no shortage of housed data, data repositories online, and lists of data
 
   1. Repositories
     - [Common Crawl](http://commoncrawl.org)
-    - [ICPSR](https://www.icpsr.umich.edu/icpsrweb/)
+    - [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
     - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
     - [AWS Datasets](https://aws.amazon.com/datasets/)
     - [Github Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
