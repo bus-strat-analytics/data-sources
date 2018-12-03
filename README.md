@@ -2,7 +2,6 @@
 There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
 
   1. Repositories
-
     - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
     - [Common Crawl](http://commoncrawl.org)
     - [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
