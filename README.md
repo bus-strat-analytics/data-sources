@@ -2,6 +2,7 @@
 There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
 
   1. Repositories
+
     - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
     - [Common Crawl](http://commoncrawl.org)
     - [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
@@ -15,8 +16,12 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
     - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
     - [Stanford Large Network Dataset Collection](http://memetracker.org/data/index.html)
+    - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
+    - [Data World](https://data.world)
+    - [DBPedia](http://wiki.dbpedia.org)
 
   2. Interesting datasets
+
     - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
     - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
     - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
@@ -25,10 +30,12 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Archive's Face-o-Matic](https://archive.org/details/faceomatic)
 
   3. Social discussions
+
     - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
     - [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
   4. Government data
+
     - [London Datastore](http://data.london.gov.uk)
     - [UK Government](https://data.gov.uk)
     - [US Government](https://www.data.gov)
@@ -36,8 +43,3 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [European Data Portal](https://www.europeandataportal.eu)
     - [Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
     - [National Buerau of Statistics of China](http://data.stats.gov.cn/english/)
-
-  5. Data websites
-    - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
-    - [Data World](https://data.world)
-    - [DBPedia](http://wiki.dbpedia.org)
