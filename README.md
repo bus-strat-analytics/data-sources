@@ -43,11 +43,13 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [UK Government](https://data.gov.uk)
   - [UK Office of National Statistics](https://www.ons.gov.uk)
   - [UK Data Archive](https://www.data-archive.ac.uk)
+  - [UK Department for Transportation](https://www.gov.uk/government/organisations/department-for-transport/about/statistics)
 
 5. European data
   - [European Data Portal](https://www.europeandataportal.eu)
   - [European Union Open Data Portal](https://data.europa.eu/euodp/en/data/)
   - [Eurostat](http://ec.europa.eu/eurostat)
+  - [OECD Data](https://data.oecd.org)
   - [StatBel, Belgian statistical office](https://statbel.fgov.be/en)
 
 6. US data
@@ -58,6 +60,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   
 7. Rest of World / International Data
   - [Global Wind Atlas](https://globalwindatlas.info)
+  - [Kesci Datasets (Chinese-language Kaggle)](https://www.kesci.com/home/dataset)
   - [National Buerau of Statistics of China](http://data.stats.gov.cn/english/)
   - [Observatory of Economic Complexity](https://oec.world)
   - [World Bank](https://data.worldbank.org)
@@ -65,6 +68,7 @@ There is no shortage of housed data, data repositories online, and lists of data
 
 
 For those of you who are UCL students, the [UCL Library](https://www.ucl.ac.uk/library/) has a wealth of [databases](https://library-guides.ucl.ac.uk/az.php) that you have access to as well. You will need to visit the repository to view all that is avaiable, but I will point out a few here. Note a UCL login will be required to access all these datasets.
-  - [Wharton Research Data Services (WRDS)](http://wrds-web.wharton.upenn.edu/) has a number of datasets on companies, financials, markets, and more.
-  - [Proquest Central](http://libproxy.ucl.ac.uk/login?url=https://search.proquest.com/pqcentral/advanced?) for news articles
   - [Cross-National Time-Series Data Archive (CNTS)](http://libproxy.ucl.ac.uk/login?url=https://www.databanksinternational.com/DATA_with_LINKS/) has almost 200 variables for over 200 countries, spanning most of the last century.
+  - [Proquest Central](http://libproxy.ucl.ac.uk/login?url=https://search.proquest.com/pqcentral/advanced?) for news articles
+  - [Wharton Research Data Services (WRDS)](http://wrds-web.wharton.upenn.edu/) has a number of datasets on companies, financials, markets, and more.
+  - [Statista](http://libproxy.ucl.ac.uk/login?url=https://www.statista.com/)
