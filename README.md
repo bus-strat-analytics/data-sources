@@ -15,6 +15,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
   - [Harvard Dataverse](https://dataverse.harvard.edu)
   - [Humanitarian Data Exchange (HDX)](https://data.humdata.org)
+  - [OpenICPSR](https://www.openicpsr.org)
   - [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
   - [Kaggle Data Sets](https://www.kaggle.com/datasets)
   - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
@@ -23,12 +24,14 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Open Data Network](https://opendatanetwork.com)
   - [Open Data Science I](https://github.com/datasciencemasters/data)
   - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
+  - [Socioeconomic Data and Appliations Center (SEDAC)](https://sedac.ciesin.columbia.edu/data/sets/browse)
   - [Stanford Large Network Dataset Collection](http://memetracker.org/data/index.html)
   - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
 
 2. Datasets
   - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
   - [Archive's Face-o-Matic](https://archive.org/details/faceomatic)
+  - [Emergency Events Database](https://www.emdat.be) and associated geocoding data from [SEDAC](https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download)
   - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
   - [GDELT global news dataset](http://gdeltproject.org)
   - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
@@ -58,10 +61,12 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [US Government](https://www.data.gov)
   - [US Treasury FiscalData](https://fiscaldata.treasury.gov/datasets/)
   
-7. Rest of World / International Data
-  - [Global Wind Atlas](https://globalwindatlas.info)
+6. China
   - [Kesci Datasets (Chinese-language Kaggle)](https://www.kesci.com/home/dataset)
   - [National Buerau of Statistics of China](http://data.stats.gov.cn/english/)
+
+7. Rest of World / International Data
+  - [Global Wind Atlas](https://globalwindatlas.info)
   - [Observatory of Economic Complexity](https://oec.world)
   - [World Bank](https://data.worldbank.org)
   - [United Nations](http://data.un.org)
