@@ -26,7 +26,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
   - [Socioeconomic Data and Appliations Center (SEDAC)](https://sedac.ciesin.columbia.edu/data/sets/browse)
   - [Stanford Large Network Dataset Collection](http://memetracker.org/data/index.html)
-  - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
+  - [UCI Repository](https://archive.ics.uci.edu/ml/datasets.php)
 
 2. Datasets
   - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
@@ -58,7 +58,9 @@ There is no shortage of housed data, data repositories online, and lists of data
 6. US data
   - [Analyze Boston](https://data.boston.gov)
   - [OpenStates](https://openstates.org)
-  - [US Government](https://www.data.gov)
+  - [Department of Labor Foreign Labor Applications](https://www.dol.gov/agencies/eta/foreign-labor/performance)
+  - [data.gov](https://www.data.gov)
+  - [Princeton Corpus of Political Emails](https://electionemails2020.org)
   - [US Treasury FiscalData](https://fiscaldata.treasury.gov/datasets/)
   
 6. China
@@ -68,8 +70,10 @@ There is no shortage of housed data, data repositories online, and lists of data
 7. Rest of World / International Data
   - [Global Wind Atlas](https://globalwindatlas.info)
   - [Observatory of Economic Complexity](https://oec.world)
+  - [RegData](https://www.quantgov.org/download-data) provides text-based measures of regulations for several countries and industries
   - [World Bank](https://data.worldbank.org)
   - [United Nations](http://data.un.org)
+  - [Universal Postal Union Postal Statistics](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics#query-the-database-)
 
 
 For those of you who are UCL students, the [UCL Library](https://www.ucl.ac.uk/library/) has a wealth of [databases](https://library-guides.ucl.ac.uk/az.php) that you have access to as well. You will need to visit the repository to view all that is avaiable, but I will point out a few here. Note a UCL login will be required to access all these datasets.
