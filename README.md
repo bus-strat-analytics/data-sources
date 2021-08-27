@@ -57,6 +57,8 @@ There is no shortage of housed data, data repositories online, and lists of data
 
 6. US data
   - [Analyze Boston](https://data.boston.gov)
+  - [Artifical Intelligence Patent Dataset](https://www.uspto.gov/ip-policy/economic-research/research-datasets/artificial-intelligence-patent-dataset)
+  - [House of Representatives](https://housestockwatcher.com) and [Senate](https://senatestockwatcher.com) Stock Trades
   - [OpenStates](https://openstates.org)
   - [Department of Labor Foreign Labor Applications](https://www.dol.gov/agencies/eta/foreign-labor/performance)
   - [data.gov](https://www.data.gov)
@@ -68,7 +70,9 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [National Buerau of Statistics of China](http://data.stats.gov.cn/english/)
 
 7. Rest of World / International Data
+  - [Africa Open Buildings](https://sites.research.google/open-buildings/)
   - [Global Wind Atlas](https://globalwindatlas.info)
+  - [Government Revenue Dataset](https://www.wider.unu.edu/project/government-revenue-dataset)
   - [Observatory of Economic Complexity](https://oec.world)
   - [RegData](https://www.quantgov.org/download-data) provides text-based measures of regulations for several countries and industries
   - [World Bank](https://data.worldbank.org)
