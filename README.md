@@ -12,12 +12,13 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Enigma Public](https://public.enigma.com)
   - [FiveThirtyEight](https://data.fivethirtyeight.com)
   - [Github Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+  - [Google Cloud Datasets](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset)
   - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
   - [Harvard Dataverse](https://dataverse.harvard.edu)
   - [Humanitarian Data Exchange (HDX)](https://data.humdata.org)
   - [OpenICPSR](https://www.openicpsr.org)
   - [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
-  - [Kaggle Data Sets](https://www.kaggle.com/datasets)
+  - [Kaggle Data Sets](https://www.kaggle.com/datasets). Please note that Kaggle datasets can sometimes be unreliable. It's often helpful to search for the underlying source of the data.
   - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
   - [MSFT Research Open Data sets](https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/)
   - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
@@ -34,8 +35,10 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Emergency Events Database](https://www.emdat.be) and associated geocoding data from [SEDAC](https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download)
   - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
   - [GDELT global news dataset](http://gdeltproject.org)
+  - [Internet shutdowns](https://www.accessnow.org/keepiton/)
   - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
   - [Reddit Comments](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/)
+  - Wine data from the [International Organization of Vine and Wine](https://www.oiv.int/en/statistiques/recherche) and The University of Adelaide's [Wine Economics Research Centre](https://economics.adelaide.edu.au/wine-economics/databases).
 
 3. Social discussions
   - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
@@ -63,6 +66,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Department of Labor Foreign Labor Applications](https://www.dol.gov/agencies/eta/foreign-labor/performance)
   - [data.gov](https://www.data.gov)
   - [Princeton Corpus of Political Emails](https://electionemails2020.org)
+  - US Department of Labor [Establishment Specific Injury and Illness Data](https://www.osha.gov/Establishment-Specific-Injury-and-Illness-Data)
   - [US Treasury FiscalData](https://fiscaldata.treasury.gov/datasets/)
   
 6. China
@@ -71,10 +75,13 @@ There is no shortage of housed data, data repositories online, and lists of data
 
 7. Rest of World / International Data
   - [Africa Open Buildings](https://sites.research.google/open-buildings/)
+  - [Global Nighttime Light Dataset 1992-2018](https://figshare.com/articles/dataset/Harmonization_of_DMSP_and_VIIRS_nighttime_light_data_from_1992-2018_at_the_global_scale/9828827/2) (See accompanying [Nature article](https://www.nature.com/articles/s41597-020-0510-y))
   - [Global Wind Atlas](https://globalwindatlas.info)
   - [Government Revenue Dataset](https://www.wider.unu.edu/project/government-revenue-dataset)
   - [Observatory of Economic Complexity](https://oec.world)
+  - [Our World in Data](https://ourworldindata.org/)
   - [RegData](https://www.quantgov.org/download-data) provides text-based measures of regulations for several countries and industries
+  - [SustainBench](https://sustainlab-group.github.io/sustainbench/docs/datasets/)
   - [World Bank](https://data.worldbank.org)
   - [United Nations](http://data.un.org)
   - [Universal Postal Union Postal Statistics](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Postal-Statistics#query-the-database-)
