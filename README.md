@@ -32,6 +32,7 @@ There is no shortage of housed data, data repositories online, and lists of data
 2. Datasets
   - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
   - [Archive's Face-o-Matic](https://archive.org/details/faceomatic)
+  - Carbon datasets: [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) and [Voluntary Registry Offsets Database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database)
   - [Emergency Events Database](https://www.emdat.be) and associated geocoding data from [SEDAC](https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download)
   - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
   - [GDELT global news dataset](http://gdeltproject.org)
@@ -81,6 +82,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Observatory of Economic Complexity](https://oec.world)
   - [Our World in Data](https://ourworldindata.org/)
   - [RegData](https://www.quantgov.org/download-data) provides text-based measures of regulations for several countries and industries
+  - [Social Capital Atlas](https://data.humdata.org/dataset/social-capital-atlas)
   - [SustainBench](https://sustainlab-group.github.io/sustainbench/docs/datasets/)
   - [World Bank](https://data.worldbank.org)
   - [United Nations](http://data.un.org)
