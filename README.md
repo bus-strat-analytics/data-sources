@@ -36,6 +36,7 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [Emergency Events Database](https://www.emdat.be) and associated geocoding data from [SEDAC](https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018/data-download)
   - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
   - [GDELT global news dataset](http://gdeltproject.org)
+  - [Lahman Baseball Database](http://seanlahman.com/download-baseball-database/)
   - [Internet shutdowns](https://www.accessnow.org/keepiton/)
   - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
   - [Reddit Comments](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/)
